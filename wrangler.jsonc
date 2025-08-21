@@ -1,10 +1,7 @@
 {
   "name": "moontv",
-  "compatibility_date": "2025-06-02",
+  "compatibility_date": "2025-08-21",
   "assets": {
-    "directory": "./public",
-    "binding": "ASSETS",
-    "html_handling": "force-trailing-slash",
-    "not_found_handling": "404-page"
+    "directory": "./public"
   }
 }
